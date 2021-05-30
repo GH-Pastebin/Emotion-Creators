@@ -65,3 +65,4 @@
 - [`EC_Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`EC_Dynamic_Bone_Editor_v1.0.3`](https://www.patreon.com/posts/48134621)
 - [`EC_Mod_Bone_Implantor_v1.0.0.0`](https://github.com/IllusionMods/ModBoneImplantor)
+- [`EC_DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
