@@ -9,6 +9,11 @@
 --
 
 ---
+**[News]** 
+--
+- [`Anon11/DeathWeasel`](https://www.patreon.com/posts/53085409)
+
+---
 **[Discord]**
 --
 - [`Discord`](https://discord.gg/hevygx6)
@@ -27,34 +32,34 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.16.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.16.3`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`EC_English_Translation_v2.1`](https://www.patreon.com/posts/26682716)
 - [`EC_English_Launcher_v3.1.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
 ---
 **[Female & Male Uncensor]**
 --
-- [`EC_Uncensor_Selector_ᴠ3.11.2`](https://www.patreon.com/posts/uncensorselector-50596398)
+- [`EC_Uncensor_Selector_ᴠ3.11.2`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.11`](https://github.com/BepInEx/BepInEx/releases)
-- [`EC_Illusion_Fixes_v15.3`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`EC_Illusion_Fixes_v15.3.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.3.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.20.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_API_v1.20.3`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.2.0`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
-- [`EC_Material_Editor_v3.1.1`](https://www.patreon.com/posts/materialeditor-1-51454810)
+- [`EC_Material_Editor_v3.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Manager_ᴠ0.17.0`](https://github.com/IllusionMods/KKManager/releases)
 
 ---
 **[Utility Plugins]**
 --
-- [`EC_Hair_Accessory_Customizer_v1.1.5`](https://www.patreon.com/posts/37997119)
-- [`EC_Invisible_Body_v1.4`](https://www.patreon.com/posts/28424780)
+- [`EC_Hair_Accessory_Customizer_v1.1.5`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Character_Replacer_v1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
-- [`EC_Clothing_Unlocker_v2.0.1`](https://www.patreon.com/posts/38000702)
+- [`EC_Clothing_Unlocker_v2.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Unlock_Player_H-Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 - [`EC_Accessory_Quick_Remove_v1.0`](https://www.patreon.com/posts/46832511)
 - [`EC_Browser_Folders_ᴠ2.5.1`](https://www.patreon.com/posts/40644638)
@@ -63,6 +68,6 @@
 - [`EC_Core_Plugin_v1.1`](https://github.com/ManlyMarco/EC_CorePlugins)
 - [`EC_Clothing_State_Menu_ᴠ3.0.1`](https://www.patreon.com/posts/37378336)
 - [`EC_Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
-- [`EC_Dynamic_Bone_Editor_v1.0.3`](https://www.patreon.com/posts/48134621)
+- [`EC_Dynamic_Bone_Editor_v1.0.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Mod_Bone_Implantor_v1.0.0.0`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`EC_DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
