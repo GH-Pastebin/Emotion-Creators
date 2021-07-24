@@ -69,5 +69,5 @@
 - [`EC_Clothing_State_Menu_ᴠ3.0.1`](https://www.patreon.com/posts/37378336)
 - [`EC_Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`EC_Dynamic_Bone_Editor_v1.0.3`](https://github.com/IllusionMods/KK_Plugins)
-- [`EC_Mod_Bone_Implantor_v1.0.0.0`](https://github.com/IllusionMods/ModBoneImplantor)
+- [`EC_Mod_Bone_Implantor_v1.1.0.0`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`EC_DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
