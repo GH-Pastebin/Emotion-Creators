@@ -32,7 +32,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.17.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.87.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`EC_English_Translation_v2.1`](https://www.patreon.com/posts/26682716)
 - [`EC_English_Launcher_v3.1.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
@@ -44,10 +44,10 @@
 ---
 **[Recommended Plugins]**
 --
-- [`BepInEx_v5.4.11`](https://github.com/BepInEx/BepInEx/releases)
-- [`EC_Illusion_Fixes_v15.3.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
+- [`EC_Illusion_Fixes_v16.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.4`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.20.3`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_API_v1.21`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.2.0`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Material_Editor_v3.1.1`](https://github.com/IllusionMods/KK_Plugins)
@@ -62,7 +62,7 @@
 - [`EC_Clothing_Unlocker_v2.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Unlock_Player_H-Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 - [`EC_Accessory_Quick_Remove_v1.0`](https://www.patreon.com/posts/46832511)
-- [`EC_Browser_Folders_ᴠ2.5.1`](https://www.patreon.com/posts/40644638)
+- [`EC_Browser_Folders_ᴠ2.5.2`](https://www.patreon.com/posts/40644638)
 - [`EC_Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`EC_Height_Bar_ᴠ3.3`](https://www.patreon.com/posts/35859949)
 - [`EC_Core_Plugin_v1.1`](https://github.com/ManlyMarco/EC_CorePlugins)
