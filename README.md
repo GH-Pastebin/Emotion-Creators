@@ -32,9 +32,9 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.87.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.18.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`EC_English_Translation_v2.1`](https://www.patreon.com/posts/26682716)
-- [`EC_English_Launcher_v3.1.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`EC_English_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
 ---
 **[Female & Male Uncensor]**
@@ -45,9 +45,9 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
-- [`EC_Illusion_Fixes_v16.0`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r16.4`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.22`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_Illusion_Fixes_v16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`EC_BepisPlugins_r16.5`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_API_v1.24`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Material_Editor_v3.1.1`](https://github.com/IllusionMods/KK_Plugins)
