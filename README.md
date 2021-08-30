@@ -73,3 +73,4 @@
 - [`EC_Mod_Bone_Implantor_v1.1.0.0`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`EC_DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
 - [`EC_Cloth_Colliders_v1.1.0.0`](https://www.patreon.com/posts/35139324)
+- [`EC_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
