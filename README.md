@@ -45,13 +45,14 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
+- [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.5`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.24`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Material_Editor_v3.1.1`](https://github.com/IllusionMods/KK_Plugins)
-- [`EC_Manager_ᴠ0.17.0`](https://github.com/IllusionMods/KKManager/releases)
+
 
 ---
 **[Utility Plugins]**
