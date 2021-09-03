@@ -47,12 +47,11 @@
 - [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r16.5`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_BepisPlugins_r16.6`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.24`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
-- [`EC_Material_Editor_v3.1.2`](https://github.com/IllusionMods/KK_Plugins)
-
+- [`EC_Material_Editor_v3.1.3`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Utility Plugins]**
@@ -74,3 +73,4 @@
 - [`EC_DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
 - [`EC_Cloth_Colliders_v1.1.0.0`](https://www.patreon.com/posts/35139324)
 - [`EC_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
+- [`EC_Rim_Remover_v1.2`](https://github.com/IllusionMods/RimRemover)
