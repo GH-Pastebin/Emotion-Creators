@@ -45,6 +45,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
+- [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.6`](https://github.com/IllusionMods/BepisPlugins/releases) 
