@@ -58,6 +58,7 @@
 ---
 **[Utility Plugins]**
 --
+- [`EC_Accessories_ᴠ2.0.1`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.1)
 - [`EC_Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Character_Replacer_v1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
