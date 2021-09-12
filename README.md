@@ -32,7 +32,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.19.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.20.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`EC_English_Translation_v2.1`](https://www.patreon.com/posts/26682716)
 - [`EC_English_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
@@ -49,7 +49,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r16.7`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_BepisPlugins_r16.7.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.25`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
@@ -58,7 +58,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`EC_Accessories_ᴠ2.0.1`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.1)
+- [`EC_More_Accessories_ᴠ2.0.3`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
 - [`EC_Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Character_Replacer_v1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
@@ -73,7 +73,7 @@
 - [`EC_Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`EC_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
-- [`EC_Drag_And_Drop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
+- [`EC_Drag_And_Drop_v1.2.4`](https://github.com/IllusionMods/DragAndDrop)
 - [`EC_Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`EC_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`EC_Rim_Remover_v1.2`](https://github.com/IllusionMods/RimRemover)
