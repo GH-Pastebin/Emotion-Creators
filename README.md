@@ -53,12 +53,12 @@
 - [`EC_API_v1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
-- [`EC_Material_Editor_v3.1.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Utility Plugins]**
 --
-- [`EC_More_Accessories_ᴠ2.0.6`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.6)
+- [`EC_More_Accessories_ᴠ2.0.7`](https://github.com/jalil49/MoreAccessories/releases)
 - [`EC_Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Character_Replacer_v1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
