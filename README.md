@@ -44,21 +44,22 @@
 ---
 **[Recommended Plugins]**
 --
-- [`BepInEx_v5.4.15`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx_v5.4.16.0`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_v16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v16.4)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`EC_Illusion_Fixes_v17.0`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r16.8`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_Illusion_Fixes_v18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`EC_BepisPlugins_r16.8.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
-- [`EC_Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Material_Editor_v3.1.8`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Utility Plugins]**
 --
 - [`EC_More_Accessories_ᴠ2.0.7`](https://github.com/jalil49/MoreAccessories/releases)
+- [`EC_Accessory_Clothes_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Character_Replacer_v1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
