@@ -39,7 +39,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`EC_Uncensor_Selector_ᴠ3.11.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Uncensor_Selector_ᴠ3.11.4`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Recommended Plugins]**
@@ -53,12 +53,12 @@
 - [`EC_API_v1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
-- [`EC_Material_Editor_v3.1.8`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Material_Editor_v3.1.9`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Utility Plugins]**
 --
-- [`EC_More_Accessories_ᴠ2.0.7`](https://github.com/jalil49/MoreAccessories/releases)
+- [`EC_More_Accessories_ᴠ2.0.10`](https://github.com/jalil49/MoreAccessories/releases)
 - [`EC_Accessory_Clothes_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
@@ -66,7 +66,7 @@
 - [`EC_Clothing_Unlocker_v2.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Unlock_Player_H-Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 - [`EC_Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins)
-- [`EC_Browser_Folders_ᴠ2.5.2`](https://www.patreon.com/posts/40644638)
+- [`EC_Browser_Folders_ᴠ2.6.0`](https://www.patreon.com/posts/40644638)
 - [`EC_Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`EC_Height_Bar_ᴠ3.3`](https://www.patreon.com/posts/35859949)
 - [`EC_Core_Plugin_v1.1`](https://github.com/ManlyMarco/EC_CorePlugins)
