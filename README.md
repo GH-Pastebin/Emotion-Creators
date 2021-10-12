@@ -44,7 +44,7 @@
 ---
 **[Recommended Plugins]**
 --
-- [`BepInEx_v5.4.16.0`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx_v5.4.17.0`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_v16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v16.4)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
