@@ -50,10 +50,10 @@
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.8.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_API_v1.27`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
-- [`EC_Material_Editor_v3.1.9`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Material_Editor_v3.1.10`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Utility Plugins]**
@@ -74,7 +74,7 @@
 - [`EC_Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`EC_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
-- [`EC_Drag_And_Drop_v1.2.5`](https://github.com/IllusionMods/DragAndDrop)
+- [`EC_Drag_And_Drop_v1.2.6`](https://github.com/IllusionMods/DragAndDrop)
 - [`EC_Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`EC_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`EC_Rim_Remover_v1.2`](https://github.com/IllusionMods/RimRemover)
