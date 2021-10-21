@@ -58,7 +58,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`EC_More_Accessories_ᴠ2.0.12`](https://github.com/jalil49/MoreAccessories/releases)
+- [`EC_More_Accessories_ᴠ2.0.13`](https://github.com/jalil49/MoreAccessories/releases)
 - [`EC_Accessory_Clothes_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
