@@ -70,7 +70,7 @@
 - [`EC_Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`EC_Height_Bar_ᴠ3.3`](https://www.patreon.com/posts/35859949)
 - [`EC_Core_Plugin_v1.1`](https://github.com/ManlyMarco/EC_CorePlugins)
-- [`EC_Clothing_State_Menu_ᴠ3.0.1`](https://www.patreon.com/posts/37378336)
+- [`EC_Clothing_State_Menu_ᴠ3.1`](https://www.patreon.com/posts/37378336)
 - [`EC_Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`EC_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
