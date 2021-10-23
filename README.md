@@ -58,7 +58,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`EC_More_Accessories_ᴠ2.0.13`](https://github.com/jalil49/MoreAccessories/releases)
+- [`EC_More_Accessories_ᴠ2.0.15`](https://github.com/jalil49/MoreAccessories/releases)
 - [`EC_Accessory_Clothes_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
@@ -66,9 +66,9 @@
 - [`EC_Clothing_Unlocker_v2.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Unlock_Player_H-Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 - [`EC_Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins)
-- [`EC_Browser_Folders_ᴠ2.6.0`](https://www.patreon.com/posts/40644638)
+- [`EC_Browser_Folders_ᴠ2.6.1`](https://www.patreon.com/posts/40644638)
 - [`EC_Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
-- [`EC_Height_Bar_ᴠ3.3`](https://www.patreon.com/posts/35859949)
+- [`EC_Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
 - [`EC_Core_Plugin_v1.1`](https://github.com/ManlyMarco/EC_CorePlugins)
 - [`EC_Clothing_State_Menu_ᴠ3.1`](https://www.patreon.com/posts/37378336)
 - [`EC_Character_Replacer_ᴠ1.6.2`](https://github.com/IllusionMods/CharacterReplacer/releases)
