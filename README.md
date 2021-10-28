@@ -49,8 +49,8 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r16.8.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.27`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_BepisPlugins_r16.9`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_API_v1.28`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Material_Editor_v3.1.10`](https://github.com/IllusionMods/KK_Plugins)
@@ -58,7 +58,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`EC_More_Accessories_ᴠ2.0.17`](https://github.com/jalil49/MoreAccessories/releases)
+- [`EC_More_Accessories_ᴠ2.0.18`](https://github.com/jalil49/MoreAccessories/releases)
 - [`EC_Accessory_Clothes_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
@@ -66,7 +66,7 @@
 - [`EC_Clothing_Unlocker_v2.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Unlock_Player_H-Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 - [`EC_Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins)
-- [`EC_Browser_Folders_ᴠ2.6.1`](https://www.patreon.com/posts/40644638)
+- [`EC_Browser_Folders_ᴠ2.6.2`](https://www.patreon.com/posts/40644638)
 - [`EC_Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`EC_Height_Bar_ᴠ3.4`](https://www.patreon.com/posts/35859949)
 - [`EC_Core_Plugin_v1.1`](https://github.com/ManlyMarco/EC_CorePlugins)
