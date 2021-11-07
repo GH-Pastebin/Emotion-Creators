@@ -32,7 +32,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.20.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.20.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`EC_English_Translation_v2.1`](https://www.patreon.com/posts/26682716)
 - [`EC_English_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
