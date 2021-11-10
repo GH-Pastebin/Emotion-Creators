@@ -39,7 +39,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`EC_Uncensor_Selector_ᴠ3.11.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Uncensor_Selector_ᴠ3.11.5`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Recommended Plugins]**
@@ -50,7 +50,7 @@
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.9`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.28.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_API_v1.28.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Material_Editor_v3.1.10`](https://github.com/IllusionMods/KK_Plugins)
@@ -78,4 +78,4 @@
 - [`EC_Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`EC_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`EC_Rim_Remover_v1.2`](https://github.com/IllusionMods/RimRemover)
-- [`EC_Push_Up_v1.3.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
