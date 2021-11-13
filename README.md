@@ -52,7 +52,7 @@
 - [`EC_BepisPlugins_r16.9`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.28.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
-- [`EC_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
+- [`EC_Illusion_Overlay_Mods_ᴠ6.0.5`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Material_Editor_v3.1.10`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
