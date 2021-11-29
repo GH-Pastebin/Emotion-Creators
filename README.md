@@ -49,10 +49,10 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r16.9.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_BepisPlugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.28.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`EC_ABMX_v4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
-- [`EC_Illusion_Overlay_Mods_ᴠ6.0.5`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
+- [`EC_ABMX_v4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
+- [`EC_Illusion_Overlay_Mods_ᴠ6.0.6`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Material_Editor_v3.1.10`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
@@ -76,6 +76,6 @@
 - [`EC_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`EC_Drag_And_Drop_v1.2.6`](https://github.com/IllusionMods/DragAndDrop)
 - [`EC_Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
-- [`EC_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
+- [`EC_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`EC_Rim_Remover_v1.2`](https://github.com/IllusionMods/RimRemover)
 - [`EC_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
