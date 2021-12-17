@@ -51,7 +51,7 @@
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v19.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.29`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_API_v1.29.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`EC_ABMX_v4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Illusion_Overlay_Mods_ᴠ6.0.6`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Material_Editor_v3.1.11`](https://github.com/IllusionMods/KK_Plugins)
