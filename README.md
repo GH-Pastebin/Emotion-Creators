@@ -51,7 +51,7 @@
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v19.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.30`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_API_v1.30.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
 **[Utility Plugins]**
