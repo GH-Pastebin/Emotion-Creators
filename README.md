@@ -33,7 +33,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.21.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-5.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`EC_English_Translation_v2.1`](https://www.patreon.com/posts/26682716)
 - [`EC_English_Launcher_v3.2.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
@@ -51,7 +51,7 @@
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v19.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.30.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_API_v1.31.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
 **[Utility Plugins]**
