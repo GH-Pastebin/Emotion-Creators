@@ -24,6 +24,7 @@
 - [`Illusion`](http://www.illusion.jp/preview/emocre/index.php)
 - [`Booru`](https://www.patreon.com/posts/30803118)
 - [`Plugin Data Reader`](https://plugindatareader.maki0419.com/)
+- [`BepisDB`](https://db.bepis.moe/)
 
 ---
 **[Latest Game Update]**
