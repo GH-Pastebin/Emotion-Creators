@@ -51,8 +51,8 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r18.0.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
-- [`EC_API_v1.31.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`EC_BepisPlugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_API_v1.32`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
 **[Utility Plugins]**
@@ -61,7 +61,7 @@
 [A]
 --
 - [`EC_ABMX_v4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
-- [`EC_Accessory_Clothes_v1.0.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Accessory_Clothes_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 
 [B]
@@ -111,7 +111,7 @@
 
 [M]
 --
-- [`EC_Material_Editor_v3.1.16`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Material_Editor_v3.1.17`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`EC_Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`EC_Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
