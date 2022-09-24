@@ -46,7 +46,7 @@
 ---
 **[Recommended Plugins]**
 --
-- [`BepInEx_v5.4.19`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx_v5.4.21`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
 - [`BepInEx.Configuration_Manager_v17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v16.4)
 - [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
