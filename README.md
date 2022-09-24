@@ -47,11 +47,11 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_v5.4.19`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx_IL2CPP_v6.0.0_BE_571`](https://builds.bepinex.dev/)
-- [`BepInEx.Configuration_Manager_v17.0`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v16.4)
-- [`Runtime_Unity_Editor_BepInEx5_v2.6.2`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
+- [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
+- [`BepInEx.Configuration_Manager_v17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v16.4)
+- [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`EC_Illusion_Fixes_v20.0`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`EC_Illusion_Fixes_v20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
