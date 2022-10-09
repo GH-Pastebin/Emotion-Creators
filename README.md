@@ -97,7 +97,7 @@
 
 [I]
 --
-- [`EC_Illusion_Overlay_Mods_ᴠ6.0.7`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
+- [`EC_Illusion_Overlay_Mods_ᴠ6.1.0`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/) 
 - [`EC_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
 
 [J]
