@@ -51,7 +51,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_BepisPlugins_r19.0.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
