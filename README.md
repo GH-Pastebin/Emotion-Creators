@@ -51,7 +51,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`EC_Illusion_Fixes_v20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`EC_BepisPlugins_r19.0.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
+- [`EC_BepisPlugins_r19.0.2`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
@@ -111,7 +111,7 @@
 
 [M]
 --
-- [`EC_Material_Editor_v3.1.17`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Material_Editor_v3.1.19`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`EC_Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`EC_Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
