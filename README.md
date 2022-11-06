@@ -60,7 +60,7 @@
 
 [A]
 --
-- [`EC_ABMX_v4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
+- [`EC_ABMX_v5.0.0`](https://github.com/ManlyMarco/ABMX/releases)
 - [`EC_Accessory_Clothes_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 
