@@ -41,7 +41,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`EC_Uncensor_Selector_ᴠ3.11.5`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Uncensor_Selector_ᴠ3.11.6`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Recommended Plugins]**
@@ -78,7 +78,7 @@
 
 [D]
 --
-- [`EC_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Dynamic_Bone_Editor_v1.0.5`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_Drag_And_Drop_v1.2.7`](https://github.com/IllusionMods/DragAndDrop)
 
 [E]
@@ -111,7 +111,7 @@
 
 [M]
 --
-- [`EC_Material_Editor_v3.1.19`](https://github.com/IllusionMods/KK_Plugins)
+- [`EC_Material_Editor_v3.1.20`](https://github.com/IllusionMods/KK_Plugins)
 - [`EC_More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`EC_Maker_Additions_ᴠ1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`EC_Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
