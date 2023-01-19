@@ -34,9 +34,9 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-5.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`EC_English_Translation_v2.1`](https://www.patreon.com/posts/26682716)
-- [`EC_English_Launcher_v3.3.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`EC_English_Launcher_v3.3.2`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
 ---
 **[Female & Male Uncensor]**
@@ -48,9 +48,9 @@
 --
 - [`BepInEx_v5.4.21`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_v17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v16.4)
-- [`Runtime_Unity_Editor_BepInEx5_v4.0.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
-- [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`EC_Illusion_Fixes_v20.2`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Runtime_Unity_Editor_BepInEx5_v4.1.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
+- [`Manager_ᴠ0.20.2`](https://github.com/IllusionMods/KKManager/releases)
+- [`EC_Illusion_Fixes_v20.2a`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`EC_BepisPlugins_r19.1`](https://github.com/IllusionMods/BepisPlugins/releases) 
 - [`EC_API_v1.35`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
